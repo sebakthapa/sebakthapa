@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi, I'm Sebak Thapa, a web developer with a passion for building interactive and dynamic web applications. I started using GitHub to share my work with the larger community and work on projects with other developers.<br><br>My primary area of interest is web development using various technologies, primarily the MERN stack (MongoDB, Express, React, and Node.js) and recently I have picked up huge interests on **RAG applications and other LLM based development**. I am skilled in Node.js, Next.js, MongoDB, HTML, CSS, and JavaScript.<br><br><br>Even though I haven't yet contributed significantly to any GitHub open-source projects, I'm excited to learn more and do so in the future.<br><br>My objective is to learn all the fundamentals of programming and technology in order to develop my skills as a web developer. As a developer, I'm eager to keep developing and learning new things.
+Hi, I'm Sebak Thapa, a web developer who enjoys building applications that solve real-world problems. I work mostly with Node.js, Next.js, PostgreSQL, MongoDB, and Express, focusing on backend development while delivering full-stack solutions.
+
+At work, I’ve been creating RAG-based web applications that integrate Large Language Models (LLMs). On the side, I like working on more traditional projects like e-commerce websites, which let me refine my core development skills.
+
+Recently, I’ve become interested in AI, machine learning, and neural networks. I’m still at the very beginning of this journey, but I’m excited to explore and see where it leads.
+
+I don’t contribute to open-source projects regularly, but when I come across something that matches my interests, I like to get involved.
+
+I’d say problem-solving is one of my strengths, and I’m always looking for ways to improve and take on new challenges.
+
+Feel free to connect or check out my work—I'm always open to learning and collaborating!
 
 
 
